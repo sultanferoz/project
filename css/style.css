@@ -1,0 +1,316 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    height: auto;
+    width: auto;
+}
+.oun{
+    background-repeat: no-repeat;
+    /* height: 200%; */
+    background-image: url(first1.jpg);;
+    background-size: 200%;
+    /* padding-top: 3%; */
+    /* padding-bottom: 10%; */
+}
+.rgba{
+    background-color: rgba(0, 0, 0, .5);
+}
+#chef{
+    text-align: start;
+    height: 100px;
+    padding-right: 1000px;
+    padding-left: 2%;
+}
+.ip{
+    text-align: start;
+    text-transform: uppercase;
+    font-size: medium;
+    padding-right: 1%;
+    /* padding-top: 2%; */
+    padding-left: 2%;
+}
+#bar{
+    text-align: end;
+    height: 30px;
+    padding-left: 0%;
+    /* padding-top: 2%; */
+
+}
+.bsn{
+    display: flex;
+    color: aliceblue;
+    padding-top: 2%;
+}
+ .main{
+    text-align: center;
+    padding: 100px 0px 150px 0px;
+    line-height: 70px;
+    /* border: 2px solid red;     */
+}
+.one{
+    color: rgb(213, 219, 224);
+    font-family: cursive;
+    font-size: x-large;
+
+}
+.two{
+    font-family: fantasy;
+    text-transform: uppercase;
+    font-size: 70px;
+    padding: 0px;
+    letter-spacing: 20px;
+    color: rgb(216, 211, 211);
+}
+.three{
+    border: 3px solid wheat;
+    text-transform: uppercase;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 1%;
+    color: white;
+}
+.four{
+    color: aliceblue;
+    font-size: small;
+    text-transform: uppercase;
+}
+.first{
+    text-align: center;
+    text-transform: lowercase;
+    display: inline-block;
+    width: 238px;
+    padding: 0px 100px;
+}
+.get{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(24, 22, 22);
+    margin-top: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+.sec{
+    text-align: center;
+    display: inline-block;
+    /* padding: 0% 5%; */
+    padding-top: 2%;
+    padding-bottom: 1%;
+    
+}
+#icon{
+    border: 2px solid black;
+    font-size: x-large;
+    border-radius: 50%;
+    padding: 5%;
+    margin: 2%;
+    color: brown;
+}
+#di{
+width: 600px;
+padding-top: 2%;
+padding-left: 2%;
+padding-right: 2%;
+/* display: inline-block; */
+image-resolution: 10%;
+}
+.container{
+    text-align: center;
+    width: 400px;
+    height: 90px;
+    padding-bottom: 0%;
+    padding-left: 8%;
+    padding-top: 20%;
+    line-height: 30px;
+    
+}
+
+.mobile{
+display: flex;
+padding-bottom: 0%;
+padding-top: 0%;
+margin-top: 0%;
+background-color: rgb(240, 242, 245);
+
+}
+#orp{
+text-align: center;
+display: inline;
+}
+.ss{
+    display:flex;
+}
+.ll{
+    display: flex;
+
+}
+#ci{
+    padding-left: 2%;
+    padding-right: 14%;
+}
+#cii{
+    padding-left: 3%;
+    padding-right: 14%;
+}
+.gre{
+    text-align: center;
+    color:white;
+    display: block;
+    background-image: url(bcl.jpg);
+    background-repeat: no-repeat;
+ background-position: center;   
+    background-size: cover;
+background-color:rgb(194, 190, 190);
+font-size: small;
+    padding-top: 0%;
+    font-size: larger;
+
+}
+#last{
+    /* background-size: cover */
+    width: 99% ;
+    padding-left: 1%;
+    height: 0%;
+    image-resolution: 10%;
+    mask-image: none;
+}
+/* .duble{
+    background-image: url(last3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-position: center;
+    text-transform: uppercase;
+    font-size: x-large;
+    color: aliceblue;
+    padding-left: 2%;
+    padding-top: 3%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+} */
+.hunza{
+    background-image: url(last1.jpg);
+    background-repeat: no-repeat;
+    /* /* background-size: contain;/ */
+    /* border: 2px solid red; */
+background-size: 200%;
+width: 300px;
+height: 155px;
+    text-align: center;
+    /* border: 1px solid red; */
+    /* padding-top: 3%; */
+}
+.gil{
+    background-image: url(last2.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    width: 300px;
+    height: 155px;
+    /* border: 1px solid red; */
+}
+.goj{
+    background-image: url(last3.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    width: 300px;
+    height: 155PX;
+    /* padding: 10.2%;/ */
+    /* border: 1px solid red; */
+}
+.hy{
+    background-image: url(last4.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    /* padding: 10%; */
+    width: 300PX;
+    height: 150px;
+    /* border: 1px solid red; */
+
+}
+.ali{
+    background-image: url(last5.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    /* padding: 10%; */
+    width: 300px;
+    height: 150px;
+    /* border: 1px solid red; */
+}
+.rah{
+    background-image: url(last6.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: top;
+    width: 300px;
+    height: 150px;
+    /* padding: 10%; */
+    /* border: 1px solid red; */
+}
+.kri{
+    background-image: url(last7.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+width: 300px;
+height: 150px;
+    /* padding: 10%; */
+    /* border: 1px solid red; */
+}
+.mon{
+    background-image: url(last8.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    width: 229px;
+    height: 155px;
+    /* padding:6.8%; */
+    /* border: 1px solid red; */
+}
+.gan{
+    background-image: url(last9.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: right;
+    width: 220px;
+    height: 155px;
+    /* padding: 9.8%; */
+    /* border: 1px solid red; */
+    
+}
+.kha{
+    background-image: url(last10.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    width: 200px;
+    height: 150px;
+    /* padding: 9% 7%; */
+    /* border: 1px solid red; */
+}
+.foodn{
+    display: flex;
+}
+.hm{
+    display: flex;
+    font-size: 45px;
+    text-align:center ;
+    color: rgb(246, 250, 250);
+
+}
+.cxn{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    word-spacing: 2%;
+    padding-top: 4%;
+    font-size: xx-large;
+    padding-bottom: 2%;
+}
+.sf{
+    text-align: end;
+    text-transform: uppercase;
+    color: black;
+    padding: 2%;
+    background-color: rgb(240, 228, 228);
+
+}
